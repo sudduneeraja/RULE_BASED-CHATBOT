@@ -37,14 +37,9 @@ Rule-Based-Chatbot/
 ├── chatbot.py
 ├── README.md
 ├── LICENSE
-├── requirements.txt
 ├── screenshots/
 │   ├── home.png
 │   ├── conversation.png
-│
-└── docs/
-    ├── Project_Report.pdf
-    ├── Flowchart.png
 ```
 
 ---
