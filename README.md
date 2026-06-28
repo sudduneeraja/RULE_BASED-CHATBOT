@@ -38,7 +38,6 @@ Rule-Based-Chatbot/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
-├── .gitignore
 ├── screenshots/
 │   ├── home.png
 │   ├── conversation.png
