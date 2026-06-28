@@ -99,8 +99,3 @@ python chatbot.py
 
 SudduNeeraja
 
----
-
-## License
-
-This project is licensed under the MIT License.
